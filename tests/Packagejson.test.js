@@ -1,4 +1,4 @@
-const server = require("../index");
+const server = require("../app");
 
 const originalPackageJSON = {
   name: "server",
