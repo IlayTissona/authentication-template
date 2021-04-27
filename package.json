@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/jest",
+    "test": "C:/Users/ilay2/OneDrive/Documents/GitHub/authentication-template/node_modules/.bin/jest",
     "dev": "nodemon index.js",
     "start": ""
   },
