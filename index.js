@@ -1,6 +1,6 @@
 const express = require("express");
-require("dotenv").config();
-const cors = require("cors");
+// require("dotenv").config();
+// const cors = require("cors");
 const app = express();
 // const {checkToken} = require("./auth/token_validation")
 const userRouter = require("./app");
